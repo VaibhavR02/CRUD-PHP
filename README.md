@@ -13,5 +13,10 @@ Updating data of Student
  ![image](https://user-images.githubusercontent.com/84662958/207624932-d0ba55bb-d5b2-4dae-8c56-7cadd82f8d80.png)
 
 Deleting data of Student
+Before: 
 ![image](https://user-images.githubusercontent.com/84662958/207625488-e55c27f6-4bf0-4355-adff-1e4e1e605028.png)
+
+After:
+![image](https://user-images.githubusercontent.com/84662958/207625702-0ba7e43f-c2e6-4d48-9c4a-8ade86d3478d.png)
+
 
